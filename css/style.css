@@ -1,0 +1,12 @@
+.container {
+	margin: 40px auto;
+}
+
+#registration-form {
+	min-height: 170px;
+}
+
+#table {
+	width: 53%;
+	margin-left: 348px;
+}
